@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="[https://s6.ezgif.com/tmp/ezgif-6-5976b69de2.gif](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)"  />
+   <img height="" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"  />
 </div>
 
 ###
