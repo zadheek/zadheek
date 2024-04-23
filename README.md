@@ -29,7 +29,7 @@
 
 <div align="flex">
   <h3 align="left">Profile Visits</h3>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zadheek.zadheek&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zadheek.zadheek&right_color=darkgreen"  />
 </div>
 
 ###
