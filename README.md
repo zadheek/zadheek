@@ -1,6 +1,4 @@
-<div align="left">
-  <img width="600" src="https://miro.medium.com/v2/resize:fit:600/0*yBvA5CnEX3Sd4aod.gif">
-</div>
+
 
 ###
 
